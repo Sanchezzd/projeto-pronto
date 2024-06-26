@@ -1,7 +1,3 @@
-Claro! Abaixo está a adaptação da documentação do código HTML para um arquivo Word:
-
----
-
 # Documentação do Código HTML do Site "Singular E-commerce"
 
 Este documento fornece uma visão detalhada da estrutura e dos elementos utilizados no código HTML do site "Singular E-commerce". O site é projetado para uma empresa que oferece soluções de marketing digital. Vamos analisar cada seção do código:
